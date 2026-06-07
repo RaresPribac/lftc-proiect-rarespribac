@@ -1,0 +1,9 @@
+﻿  ad.c
+  lexer.c
+  main.c
+  parser.c
+  utils.c
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(136,39): warning C4013: 'safeAlloc' undefined; assuming extern returning int
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(136,37): warning C4047: '=': 'void *' differs in levels of indirection from 'int'
+  Generating Code...
+  proiectlftc.vcxproj -> C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\x64\Debug\proiectlftc.exe

@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "utils.h"
+#include "lexer.h"
+#include "parser.h"
+
+int main() {
+    char* inbuf = loadFile("testparser.c");
+    Token* tokens = tokenize(inbuf);
+
+    parse(tokens);
+
+    printf("merge, fisier corect sintactic\n");
+
+    free(inbuf);
+    return 0;
+}
