@@ -1,0 +1,149 @@
+﻿  gc.c
+  main.c
+  parser.c
+  vm.c
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(96,35): warning C4013: 'safeAlloc' undefined; assuming extern returning int
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(96,33): warning C4047: '=': 'void *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(177,50): error C2039: 'instr': is not a member of '<unnamed-tag>'
+      C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\ad.h(51,9):
+      see declaration of '<unnamed-tag>'
+  
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(177,57): warning C4047: 'function': 'Instr **' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(177,57): warning C4024: 'addInstr': different types for formal and actual parameter 1
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(177,33): error C2198: 'Instr *addInstr(Instr **,Opcode)': too few arguments for call
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(180,52): error C2039: 'instr': is not a member of '<unnamed-tag>'
+      C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\ad.h(51,9):
+      see declaration of '<unnamed-tag>'
+  
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(180,25): error C2198: 'bool stmCompound(bool,Instr **)': too few arguments for call
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(183,53): error C2039: 'instr': is not a member of '<unnamed-tag>'
+      C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\ad.h(51,9):
+      see declaration of '<unnamed-tag>'
+  
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(183,60): warning C4047: 'function': 'Instr **' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(183,60): warning C4024: 'addInstrWithInt': different types for formal and actual parameter 1
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(183,29): error C2198: 'Instr *addInstrWithInt(Instr **,Opcode,int)': too few arguments for call
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(560,64): error C2039: 'instr': is not a member of '<unnamed-tag>'
+      C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\ad.h(51,9):
+      see declaration of '<unnamed-tag>'
+  
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(626,15): error C2039: 'instr': is not a member of '<unnamed-tag>'
+      C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\ad.h(51,9):
+      see declaration of '<unnamed-tag>'
+  
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(626,5): error C2198: 'void run(Instr *)': too few arguments for call
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(7,6): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(7,22): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(7,22): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(7,38): error C2146: syntax error: missing ';' before identifier 'op'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(7,40): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(7,38): error C2054: expected '(' to follow 'op'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(22,6): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(22,25): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(22,25): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(22,35): error C2059: syntax error: 'type'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(22,41): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(30,25): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(30,25): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(30,32): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(30,27): error C2054: expected '(' to follow 'instr'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(39,6): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(39,23): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(39,23): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(39,29): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(39,25): error C2040: 'list': 'int *' differs in levels of indirection from 'int **'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(39,25): error C2054: expected '(' to follow 'list'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(46,6): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(46,29): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(46,29): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(46,45): error C2146: syntax error: missing ';' before identifier 'op'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(46,49): error C2059: syntax error: 'type'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(46,59): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(52,6): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(52,32): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(52,32): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(52,48): error C2146: syntax error: missing ';' before identifier 'op'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(52,52): error C2059: syntax error: 'type'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(52,65): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(59,5): error C2061: syntax error: identifier 'stack'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(59,5): error C2059: syntax error: ';'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(59,10): error C2059: syntax error: '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(60,4): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(60,11): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(60,6): error C2099: initializer is not a constant
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(61,4): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(63,16): error C2146: syntax error: missing ')' before identifier 'v'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(63,16): error C2061: syntax error: identifier 'v'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(63,16): error C2059: syntax error: ';'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(63,17): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(63,19): error C2449: found '{' at file scope (missing function header?)
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(66,1): error C2059: syntax error: '}'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(74,16): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(74,13): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(75,10): error C2223: left of '->i' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(79,12): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(79,9): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(80,15): error C2223: left of '->i' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(80,2): warning C4033: 'popi' must return a value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(84,12): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(84,9): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(85,15): error C2223: left of '->f' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(85,2): warning C4033: 'popf' must return a value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(89,16): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(89,13): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(90,10): error C2223: left of '->f' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(94,16): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(94,13): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(95,10): error C2223: left of '->p' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(99,12): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(99,9): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(100,15): error C2223: left of '->p' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(100,2): warning C4033: 'popp' must return a value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(112,15): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(112,15): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(112,19): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(112,17): error C2054: expected '(' to follow 'IP'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(271,6): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(272,2): error C2065: 'Instr': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(272,9): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(272,14): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(272,7): error C2106: '=': left operand must be l-value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(273,2): warning C4013: 'addInstrWithInt' undefined; assuming extern returning int
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(273,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(273,25): error C2065: 'OP_PUSH_I': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(274,2): error C2065: 'Instr': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(274,9): error C2065: 'callPos': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(274,19): warning C4013: 'addInstr' undefined; assuming extern returning int
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(274,29): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(274,35): error C2065: 'OP_CALL': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(274,7): error C2106: '=': left operand must be l-value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(275,12): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(275,18): error C2065: 'OP_HALT': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(276,2): error C2065: 'callPos': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(276,11): error C2223: left of '->arg' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(276,40): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(276,46): error C2065: 'OP_ENTER': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(278,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(278,25): error C2065: 'OP_PUSH_I': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(279,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(279,25): error C2065: 'OP_FPSTORE': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(281,2): error C2065: 'Instr': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(281,9): error C2065: 'whilePos': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(281,37): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(281,43): error C2065: 'OP_FPLOAD': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(281,7): error C2106: '=': left operand must be l-value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(282,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(282,25): error C2065: 'OP_FPLOAD': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(283,12): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(283,18): error C2065: 'OP_LESS_I': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(284,2): error C2065: 'Instr': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(284,9): error C2065: 'jfAfter': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(284,29): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(284,35): error C2065: 'OP_JF': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(284,7): error C2106: '=': left operand must be l-value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(286,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(286,25): error C2065: 'OP_FPLOAD': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(289,12): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(289,18): error C2065: 'OP_CALL_EXT': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(289,18): error C1003: error count exceeds 100; stopping compilation
+  Generating Code...
