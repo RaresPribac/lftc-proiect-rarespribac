@@ -1,0 +1,200 @@
+﻿  at.c
+  main.c
+  parser.c
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\main.c(26,12): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(137,35): warning C4013: 'safeAlloc' undefined; assuming extern returning int
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(137,33): warning C4047: '=': 'void *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(248,93): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(259,9): error C2059: syntax error: '}'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(271,5): error C2059: syntax error: 'if'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(282,5): error C2059: syntax error: 'if'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(285,5): error C2059: syntax error: 'else'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(286,5): error C2059: syntax error: 'return'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(287,1): error C2059: syntax error: '}'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(301,44): error C2059: syntax error: '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(326,41): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(331,25): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(335,13): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(337,54): error C2065: 'tDst': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(337,53): warning C4133: 'function': incompatible types - from 'int *' to 'Type *'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(337,99): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(338,65): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(339,49): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(345,22): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(352,26): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(357,99): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(358,65): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(365,21): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(372,25): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(377,105): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(378,65): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(385,22): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(392,26): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(397,116): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(398,65): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(405,22): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(412,26): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(417,103): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(418,51): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(425,22): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(432,26): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(437,103): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(438,51): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(445,23): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(454,86): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(455,88): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(456,118): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(457,123): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(458,68): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(468,24): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(471,84): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(472,34): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(473,31): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(480,26): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(487,30): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(492,75): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(493,55): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(494,98): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(495,41): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(496,41): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(497,40): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(505,95): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(506,87): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(507,108): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(508,67): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(515,26): error C2143: syntax error: missing ';' before '{'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(518,47): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(519,62): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(522,83): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(524,51): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(527,87): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(528,146): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(529,58): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(533,99): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(534,158): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(535,70): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(539,81): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(540,66): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(544,17): error C2181: illegal else without matching if
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(545,25): error C2065: 's': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(545,28): error C2223: left of '->kind' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(545,83): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(546,71): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(550,87): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(551,97): error C2143: syntax error: missing ';' before '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(552,97): error C2059: syntax error: '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(553,102): error C2059: syntax error: '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(560,5): error C2059: syntax error: 'return'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\parser.c(561,1): error C2059: syntax error: '}'
+  vm.c
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(6,7): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(6,23): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(6,23): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(6,37): error C2146: syntax error: missing ';' before identifier 'op'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(6,39): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(6,37): error C2054: expected '(' to follow 'op'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(20,7): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(20,30): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(20,30): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(20,44): error C2146: syntax error: missing ';' before identifier 'op'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(20,47): error C2059: syntax error: 'type'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(20,57): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(26,7): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(26,33): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(26,33): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(26,47): error C2146: syntax error: missing ';' before identifier 'op'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(26,50): error C2059: syntax error: 'type'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(26,63): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(32,5): error C2061: syntax error: identifier 'stack'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(32,5): error C2059: syntax error: ';'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(32,10): error C2059: syntax error: '['
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(33,5): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(33,9): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(33,6): error C2099: initializer is not a constant
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(34,5): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(36,16): error C2146: syntax error: missing ')' before identifier 'v'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(36,16): error C2061: syntax error: identifier 'v'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(36,16): error C2059: syntax error: ';'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(36,17): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(36,18): error C2449: found '{' at file scope (missing function header?)
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(39,2): error C2059: syntax error: '}'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(47,11): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(47,9): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(48,10): error C2223: left of '->i' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(52,9): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(52,7): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(53,15): error C2223: left of '->i' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(53,2): warning C4033: 'popi' must return a value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(57,11): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(57,9): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(58,10): error C2223: left of '->p' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(62,9): error C2065: 'stack': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(62,7): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(63,15): error C2223: left of '->p' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(63,2): warning C4033: 'popp' must return a value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(75,16): error C2143: syntax error: missing ')' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(75,16): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(75,19): error C2059: syntax error: ')'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(75,17): error C2054: expected '(' to follow 'IP'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(167,7): error C2143: syntax error: missing '{' before '*'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(168,2): error C2065: 'Instr': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(168,9): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(168,13): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(168,8): error C2106: '=': left operand must be l-value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(169,2): warning C4013: 'addInstrWithInt' undefined; assuming extern returning int
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(169,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(169,24): error C2065: 'OP_PUSH_I': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(170,2): error C2065: 'Instr': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(170,9): error C2065: 'callPos': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(170,17): warning C4013: 'addInstr' undefined; assuming extern returning int
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(170,27): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(170,32): error C2065: 'OP_CALL': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(170,8): error C2106: '=': left operand must be l-value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(171,12): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(171,17): error C2065: 'OP_HALT': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(172,2): error C2065: 'callPos': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(172,11): error C2223: left of '->arg' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(172,38): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(172,43): error C2065: 'OP_ENTER': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(174,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(174,24): error C2065: 'OP_PUSH_I': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(175,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(175,24): error C2065: 'OP_FPSTORE': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(177,2): error C2065: 'Instr': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(177,9): error C2065: 'whilePos': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(177,35): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(177,40): error C2065: 'OP_FPLOAD': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(177,8): error C2106: '=': left operand must be l-value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(178,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(178,24): error C2065: 'OP_FPLOAD': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(179,12): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(179,17): error C2065: 'OP_LESS_I': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(180,2): error C2065: 'Instr': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(180,9): error C2065: 'jfAfter': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(180,27): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(180,32): error C2065: 'OP_JF': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(180,8): error C2106: '=': left operand must be l-value
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(182,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(182,24): error C2065: 'OP_FPLOAD': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(185,12): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(185,17): error C2065: 'OP_CALL_EXT': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(185,31): error C2223: left of '->arg' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(187,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(187,24): error C2065: 'OP_FPLOAD': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(188,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(188,24): error C2065: 'OP_PUSH_I': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(189,12): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(189,17): error C2065: 'OP_ADD_I': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(190,19): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(190,24): error C2065: 'OP_FPSTORE': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(192,12): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(192,17): error C2065: 'OP_JMP': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(192,26): error C2223: left of '->arg' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(192,36): error C2065: 'whilePos': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(194,2): error C2065: 'jfAfter': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(194,11): error C2223: left of '->arg' must point to struct/union
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(194,38): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(194,43): error C2065: 'OP_RET_VOID': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(195,9): error C2065: 'code': undeclared identifier
+C:\Users\rares\Desktop\Faculta\III\sem2\lftc2\proiectlftc\proiectlftc\vm.c(195,2): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+  Generating Code...
